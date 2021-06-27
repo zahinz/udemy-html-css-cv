@@ -1,0 +1,165 @@
+/***Tag element***/
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+h1 {
+  font-family: "Source Code Pro";
+  font-size: 3.5rem;
+  font-weight: 400;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: "Source Code Pro";
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #66BFBF;
+  margin: 0;
+}
+
+h3 {
+  font-family: "Source Code Pro";
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #11999E margin: 0;
+}
+
+p {
+  font-family: "Roboto";
+  font-size: 1.1rem;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #11999E;
+  font-family: "Roboto";
+  padding: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  height: 10px;
+  border: dotted;
+  border-width: 0 0 8px 0;
+  width: 10%;
+  color: #EAF6F6;
+  margin-bottom: 100px;
+}
+
+/***Class element***/
+.tagline {
+  font-weight: 500;
+  line-height: 2;
+}
+
+.section-1 {
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+  background-color: #F1F3F4;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {}
+
+.section-2 {}
+
+.profile {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.icon-small {
+  width: 120px;
+}
+
+.icon-medium {
+  width: 25%;
+}
+
+.skills-1-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-2-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  border: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  background-color: #11999E;
+  color: white;
+  padding: 20px;
+  margin: 50px 30% 80px 30%;
+  display: block;
+  text-decoration: none;
+}
+
+.btn:hover {
+  border: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  border-color: #11999E;
+  background-color: white;
+  color: #11999E;;
+  padding: 20px;
+  margin: 50px 30% 80px 30%;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.section-3 {
+  line-height: 2;
+  margin: 15px auto 0 auto;
+  padding: 20px 0 0 0;
+  background-color: #66BFBF;
+  height: 100px;
+}
+
+.trademark {
+  color: #EAF6F6;
+  padding-top: 15px;
+}
+
+#trademark-text {
+    font-size: 0.8rem;
+}
